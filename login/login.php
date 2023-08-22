@@ -103,7 +103,7 @@
             error: function(data) {
 
                 // Some error in ajax call
-                alert("some Error");
+                alert("some Error!");
             }
         });
     });
